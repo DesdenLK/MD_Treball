@@ -1,0 +1,9 @@
+numpy
+pandas 
+matplotlib
+scipy
+ipykernel
+jinja2
+scikit-learn==1.4.2
+imblearn
+statsmodels
